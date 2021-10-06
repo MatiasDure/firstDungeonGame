@@ -6,7 +6,7 @@ PImage storeBackgroundImg;
 
 //screens
 boolean startScreen = false;
-boolean dungeonScreen = false;
+boolean dungeonScreen = true;
 boolean storeScreen = false;
 
 //characters info
